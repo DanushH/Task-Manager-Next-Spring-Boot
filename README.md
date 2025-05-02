@@ -9,6 +9,8 @@ This project is designed to practice and demonstrate good structure, clean code,
 
 - 📋 Add new tasks
 - ✅ View list of tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
 - 🧹 Clear and scalable folder structure
 - 🎨 Basic responsive design with external CSS
 - 🛡️ Input validation
@@ -70,7 +72,7 @@ npm run dev
 - Add persistent storage (localStorage / database)
 - Add unit and integration tests (Jest + React Testing Library)
 - Migrate to App Router
-- Use TailwindCSS or styled-components for better styling
+- Use a CSS library/ framework for better styling
 - Deploy to Vercel
 
 ---
